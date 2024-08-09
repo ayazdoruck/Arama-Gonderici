@@ -1,6 +1,6 @@
 # Arama Gönderici
 
-<img src=[https://ayazdoruck.github.io/Screenshot_20240809-021227_Termux.jpg](https://ayazdoruck.github.io/Screenshot_20240809-033522_Termux.jpg) height="200px" width="400px"/>
+<img src=[https://ayazdoruck.github.io/Screenshot_20240809-021227_Termux.jpg](https://ayazdoruck.github.io/Screenshot_20240809-033522_Termux.jpg) height="200px" width="1080px"/>
 
 
 <h2>Kurulum</h2>
