@@ -9,7 +9,7 @@
 git clone https://github.com/ayazdoruck/Arama-Gonderici.git
 cd Arama-Gonderici
 pip3 install -r requirements.txt
-python3 app.py
+python3 call.py
 ```
 
 <h2>İletişim</h2>
